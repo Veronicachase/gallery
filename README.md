@@ -1,2 +1,2 @@
 # gallery
-Mini galería de fotos por categoría,  useEffect- React
+Mini galería de fotos por categoría,  useContext- React
