@@ -1,0 +1,27 @@
+.container{
+box-shadow: 1px 2px 5px #5e659dc3;
+border-radius: 5px;
+margin: 1em;
+}
+
+.boton{
+margin-right: 1em;
+box-shadow: 1px 2px 3px #5e659dc3;
+
+}
+.image{
+width: 200px;
+
+}
+.wrapper{
+display: flex;
+flex-wrap: wrap;
+background-color: #e6e7f52c;
+padding: 2em;
+border-radius: 5px;
+box-shadow: 1px 2px 5px #5e659dc3 ;
+justify-content: center;
+align-items:center;
+margin-bottom: 2em;
+
+}
